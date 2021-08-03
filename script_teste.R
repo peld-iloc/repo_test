@@ -6,3 +6,6 @@ plot(cars, col = "red", pch = 12)
 boxplot(iris)
 
 # Adicione alguma alteração neste script
+
+#Thiago Silveira
+boxplot(iris, col = "blue")
